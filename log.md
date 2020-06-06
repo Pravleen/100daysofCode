@@ -1,2 +1,3 @@
 # 100daysofCode
-100 Days Of Code 
+#Day 1: 6 June, 2020 
+Todays progress:
