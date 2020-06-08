@@ -12,7 +12,7 @@ Link for todays progress:https://github.com/Pravleen/100daysofCode/blob/master/E
 
 # Day 3: 8 June,2020
 
-Today's progress: I earned hoe to visualize data using matplotlib , plotly and tableau
+Today's progress: I learned how to visualize data using matplotlib , plotly and tableau
 
 Link for today's progress:https://github.com/Pravleen/100daysofCode/blob/master/Visualization.ipynb
 
