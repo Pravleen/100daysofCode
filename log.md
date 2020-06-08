@@ -10,4 +10,10 @@ Today's progress: I learned how to extract data from various files like text fil
 
 Link for todays progress:https://github.com/Pravleen/100daysofCode/blob/master/Extracting%20data.ipynb
 
+# Day 3: 8 June,2020
+
+Today's progress: I earned hoe to visualize data using matplotlib , plotly and tableau
+
+Link for today's progress:https://github.com/Pravleen/100daysofCode/blob/master/Visualization.ipynb
+
 
