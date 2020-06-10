@@ -15,5 +15,9 @@ Link for todays progress:https://github.com/Pravleen/100daysofCode/blob/master/E
 Today's progress: I learned how to visualize data using matplotlib , plotly and tableau
 
 Link for today's progress:https://github.com/Pravleen/100daysofCode/blob/master/Visualization.ipynb
+# Day 4: 9 June,2020
+Today's progress: Before working on data it is important that data is in a particular form all data should be in standard or normal form. Today I learned data preprocessing.
+
+Link for today's progress:https://github.com/Pravleen/100daysofCode/blob/master/Data%20preprocessing.ipynb
 
 
