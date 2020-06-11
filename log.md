@@ -24,5 +24,6 @@ Link for today's progress:https://github.com/Pravleen/100daysofCode/blob/master/
 Today's progress: I did coding on hackerrank and earned the certificate for the python basics
 
 # Day 6: 11 June,2020
-Today's progress: I leaned how to do data analysis on exploratory data such as medical related data so that a person could be daigonsed according to the factors 
+
+Today's progress: I learned how to do data analysis on exploratory data such as medical-related data so that a person could be diagnosed according to the factors.
 Link for today's progess:https://github.com/Pravleen/100daysofCode/blob/master/Exploratory%20Data%20Analysis.ipynb
