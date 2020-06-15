@@ -27,3 +27,20 @@ Today's progress: I did coding on hackerrank and earned the certificate for the 
 
 Today's progress: I learned how to do data analysis on exploratory data such as medical-related data so that a person could be diagnosed according to the factors.
 Link for today's progess:https://github.com/Pravleen/100daysofCode/blob/master/Exploratory%20Data%20Analysis.ipynb
+
+# Day 7: 12 June,2020
+Today's progress: Coding on hackerrank 
+Did questions on pandas
+
+# Day 8 : 13 June,2020
+Today's progress: Ploted differnt types of graphs using matplotlib
+Scatter
+Bar-chart
+Histogram
+
+# Day 9: 14 June,2020
+Today's progress: Started with data analysis of some data sets
+
+# Day 10:15 June,2020
+Today's progress: Predicting the data using tree
+Today's Link:https://github.com/Pravleen/100daysofCode/blob/master/prediction%20tree.ipynb
