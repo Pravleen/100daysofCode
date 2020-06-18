@@ -45,6 +45,6 @@ Today's progress: Started with data analysis of some data sets
 Today's progress: Predicting the data using tree
 Today's Link:https://github.com/Pravleen/100daysofCode/blob/master/prediction%20tree.ipynb
 
-# Day 11-13 June,2020
+# Day 11-13: 16-18 June,2020
 Progress: I have been doing analysis on a dataset of cars
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/CARS.ipynb
