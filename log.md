@@ -48,3 +48,7 @@ Today's Link:https://github.com/Pravleen/100daysofCode/blob/master/prediction%20
 # Day 11-13: 16-18 June,2020
 Progress: I have been doing analysis on a dataset of cars
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/CARS.ipynb
+
+# Day 14-16: 19-21 June,2020
+Progress :- Analysis of another data set and finding the relationship between price of the car and various other feature. How does a feature affect the cost of a price?
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Car%20Analysis.ipynb
