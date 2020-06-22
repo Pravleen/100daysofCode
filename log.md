@@ -52,3 +52,14 @@ Link:-https://github.com/Pravleen/100daysofCode/blob/master/CARS.ipynb
 # Day 14-16: 19-21 June,2020
 Progress :- Analysis of another data set and finding the relationship between price of the car and various other feature. How does a feature affect the cost of a price?
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Car%20Analysis.ipynb
+
+# Day 17-18: 22-23 June,2020
+
+Progress: Analysis of a car using model development 
+Linear regression
+Multiple regression
+Regression plot
+Residual Plot
+Distributio plot
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/Model%20Development(Car%20Analysis).ipynb
+
