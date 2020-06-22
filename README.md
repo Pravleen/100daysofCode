@@ -1,5 +1,7 @@
 <meta name="google-site-verification" content="...">
+
 # 100daysofCode
+
 # Day 1: 6 June, 2020 
 Today's progress: Started with revising concepts of Python
 
