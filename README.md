@@ -65,3 +65,14 @@ Regression plot
 Residual Plot
 Distributio plot
 Link:- https://github.com/Pravleen/100daysofCode/blob/master/Model%20Development(Car%20Analysis).ipynb
+
+# Day 19- 20 : 24-25 June,2020
+Progress: Analysis of a car using model development
+Pipeline
+Measures for In-sample Evaluation
+Mean squared Erorr(MSE)
+R-Squared(R^2)
+Prediction and decision making
+
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/MODEL%20DEVELOPMENT%202%20.ipynb
+
