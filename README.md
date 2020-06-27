@@ -76,3 +76,6 @@ Prediction and decision making
 
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/MODEL%20DEVELOPMENT%202%20.ipynb
 
+# Day 21-22 : 26-27 June,2020
+Progress: Analysis of house sales prediction
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/House%20sales%20prediction.ipynb
