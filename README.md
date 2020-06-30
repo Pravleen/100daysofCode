@@ -79,3 +79,7 @@ Link:-https://github.com/Pravleen/100daysofCode/blob/master/MODEL%20DEVELOPMENT%
 # Day 21-22 : 26-27 June,2020
 Progress: Analysis of house sales prediction
 Link:- https://github.com/Pravleen/100daysofCode/blob/master/House%20sales%20prediction.ipynb
+
+# Day 23-25 : 28-30 June,2020
+Progress: Analysis of Immigration to canada using visualization tools
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Immigration%20to%20Canada%20from%201980%20to%202013.ipynb
