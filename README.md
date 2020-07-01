@@ -84,7 +84,7 @@ Link:- https://github.com/Pravleen/100daysofCode/blob/master/House%20sales%20pre
 Progress: Analysis of Immigration to canada using visualization tools
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Immigration%20to%20Canada%20from%201980%20to%202013.ipynb
 
-# Day 26:1 July,2020
+# Day 26: 1 July,2020
 Progress:-Continued Analysis of Immigration to canada using visualization tools
 
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Immigration%20to%20Canada%20-2.ipynb
