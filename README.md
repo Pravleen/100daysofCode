@@ -88,3 +88,7 @@ Link:-https://github.com/Pravleen/100daysofCode/blob/master/Immigration%20to%20C
 Progress:-Continued Analysis of Immigration to canada using visualization tools
 
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Immigration%20to%20Canada%20-2.ipynb
+
+# Day 27: 2 July,2020
+Progress:-Analysis of data of titanic and predicting who was likely to survive and who will not!!
+Link:https://github.com/Pravleen/100daysofCode/blob/master/titanic.ipynb
