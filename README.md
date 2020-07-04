@@ -96,3 +96,4 @@ Link:https://github.com/Pravleen/100daysofCode/blob/master/titanic.ipynb
 # Day 28- 29 :3-4 July,2020
 Progess:-Analysis of a survey and learned how to plot world map using python
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Survey.ipynb
+https://github.com/Pravleen/100daysofCode/blob/master/Map.ipynb
