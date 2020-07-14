@@ -97,3 +97,21 @@ Link:https://github.com/Pravleen/100daysofCode/blob/master/titanic.ipynb
 Progess:-Analysis of a survey and learned how to plot world map using python
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Survey.ipynb
 https://github.com/Pravleen/100daysofCode/blob/master/Map.ipynb
+
+# Day 30:5 July,2020
+Progress :- Did coding on hackerrank
+
+# Day 31-32 :6-7 July-2020
+Progress :- Did coding on codechef
+
+# Day 33-34:8-9 July,2020
+Progress: Analysis of a car using model development 
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/Model%20Development(Car%20Analysis).ipynb
+
+# Day 35-38:10-13 July,2020:
+Progress: Started studying about Machine learning
+
+# Day 40:14 July,2020
+
+Progress:Analysed iris dataset
+Link:https://github.com/Pravleen/100daysofCode/blob/master/IRIS.ipynb
