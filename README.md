@@ -138,4 +138,4 @@ Simple linear regression
 Multiple linear regression
 Polynomial regression
 Non-linear regression
-Link:-
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/CO2%20EMISSION-Regression.ipynb
