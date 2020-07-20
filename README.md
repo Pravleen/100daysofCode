@@ -115,3 +115,17 @@ Progress: Started studying about Machine learning
 
 Progress:Analysed iris dataset
 Link:https://github.com/Pravleen/100daysofCode/blob/master/IRIS.ipynb
+
+# Day 41: 15 July,2020
+
+Progress:Did coding on hackerrank 
+
+# Day 42: 16 July,2020
+
+Progress:- Did coding on hackerrank
+
+# Day 43-44: 17-18 July,2020
+
+Progress:Started with machine learning 
+Supervised learning
+Unsurvised Learning
