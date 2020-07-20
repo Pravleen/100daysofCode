@@ -129,3 +129,13 @@ Progress:- Did coding on hackerrank
 Progress:Started with machine learning 
 Supervised learning
 Unsurvised Learning
+
+# Day 45-46, 19-20 July:
+
+Progress:- Started with Supervised Learning
+Regression
+Simple linear regression
+Multiple linear regression
+Polynomial regression
+Non-linear regression
+Link:-
