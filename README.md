@@ -139,3 +139,11 @@ Multiple linear regression
 Polynomial regression
 Non-linear regression
 Link:- https://github.com/Pravleen/100daysofCode/blob/master/CO2%20EMISSION-Regression.ipynb
+
+# Day 47: 21 July:
+
+Progress:-Classification model of machine learning
+KNN Model
+
+Link:-
+
