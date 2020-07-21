@@ -145,5 +145,4 @@ Link:- https://github.com/Pravleen/100daysofCode/blob/master/CO2%20EMISSION-Regr
 Progress:-Classification model of machine learning
 KNN Model
 
-Link:-
-
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Telecomm.ipynb
