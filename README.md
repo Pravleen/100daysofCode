@@ -151,3 +151,4 @@ Link:-https://github.com/Pravleen/100daysofCode/blob/master/Telecomm.ipynb
 Progress:-Classification model of machine learning
 Decision Tree Model
 Link:- https://github.com/Pravleen/100daysofCode/blob/master/Drug%20.ipynb
+      https://github.com/Pravleen/100daysofCode/blob/master/drugtree.png
