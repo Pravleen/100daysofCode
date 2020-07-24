@@ -156,5 +156,6 @@ Link:- https://github.com/Pravleen/100daysofCode/blob/master/Drug%20.ipynb
 # Day 49-50 :23 July:
 Progress:-Classification model of machine learning
 Support Vector Machine 
+Link:-
 https://github.com/Pravleen/100daysofCode/blob/master/Cancer%20cell.ipynb
 
