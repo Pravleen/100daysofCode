@@ -152,3 +152,8 @@ Progress:-Classification model of machine learning
 Decision Tree Model
 Link:- https://github.com/Pravleen/100daysofCode/blob/master/Drug%20.ipynb
       https://github.com/Pravleen/100daysofCode/blob/master/drugtree.png
+
+# Day 49-50 :23 July:
+Progress:-Classification model of machine learning
+Support Vector Machine 
+
