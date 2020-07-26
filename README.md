@@ -162,5 +162,8 @@ https://github.com/Pravleen/100daysofCode/blob/master/Cancer%20cell.ipynb
 # Day 51: 24 July
 Progress : Did coding on hackerrank
 
+# Day 52-53: 25-26 July
+Progress:Classification model of machine learning
 
+Logistic Regression
 
