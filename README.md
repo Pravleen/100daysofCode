@@ -164,7 +164,6 @@ Progress : Did coding on hackerrank
 
 # Day 52-53: 25-26 July
 Progress:Classification model of machine learning
-
 Logistic Regression
 Link:https://github.com/Pravleen/100daysofCode/blob/master/Churn.ipynb
 
