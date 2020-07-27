@@ -166,5 +166,5 @@ Progress : Did coding on hackerrank
 Progress:Classification model of machine learning
 
 Logistic Regression
-Link:
+Link:https://github.com/Pravleen/100daysofCode/blob/master/Churn.ipynb
 
