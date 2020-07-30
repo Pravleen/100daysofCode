@@ -167,3 +167,11 @@ Progress:Classification model of machine learning
 Logistic Regression
 Link:https://github.com/Pravleen/100daysofCode/blob/master/Churn.ipynb
 
+# Day 54: 27 July
+Did questions on data structures on hackerrank
+
+# Day 55-57: 28-30 July
+Progress: Started with Clustering model of machine learning
+K-means Clustering
+
+
