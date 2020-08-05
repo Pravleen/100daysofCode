@@ -10,7 +10,7 @@ Link for todays progress:https://github.com/Pravleen/100daysofCode/tree/master/b
 # Day 2: 7 June,2020
 Today's progress: I learned how to extract data from various files like text file, excel, csv, database, matlab, url
 
-Link for todays progress:https://github.com/Pravleen/100daysofCode/blob/master/Extracting%20data.ipynb
+Link for todays progress:https://github.com/Pravleen/100daysofCode/blob/master/Data%20extraction/Extracting%20data.ipynb
 
 # Day 3: 8 June,2020
 
