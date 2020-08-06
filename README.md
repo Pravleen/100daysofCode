@@ -181,9 +181,14 @@ Progress:- Did coding on hackerrank
 Progress :-Clustering model of machine learning
 Hierarchical clustering
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Hierarchical%20Clustering.ipynb
+# Day 61:3 Aug
+Did coding on Hackerrank
 
-# Day 61-62:3-4 Aug
+# Day 62-63:4-5 Aug
 Progress:- Clustering model of machine learning
 Hierarchical Clustering:-Agglomerative
-Link:-
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Car_clus.ipynb
 
+# Day 64:-6 Aug
+Progress:-Built a sudoku solver
+Link:-
