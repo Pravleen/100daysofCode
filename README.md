@@ -175,5 +175,15 @@ Progress: Started with Clustering model of machine learning
 K-means Clustering
 
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Cust_Segmentation.ipynb
+# Day 58: 31 July
+Progress:- Did coding on hackerrank
+# Day 59-60:1-2 Aug
+Progress :-Clustering model of machine learning
+Hierarchical clustering
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Hierarchical%20Clustering.ipynb
 
+# Day 61-62:3-4 Aug
+Progress:- Clustering model of machine learning
+Hierarchical Clustering:-Agglomerative
+Link:-
 
