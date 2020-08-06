@@ -24,6 +24,7 @@ Link for today's progress:https://github.com/Pravleen/100daysofCode/blob/master/
 
 # Day 5: 10 June,2020
 Today's progress: I did coding on hackerrank and earned the certificate for the python basics
+https://www.hackerrank.com/certificates/1de26187677b
 
 # Day 6: 11 June,2020
 
