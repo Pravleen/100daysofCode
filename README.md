@@ -190,5 +190,5 @@ Hierarchical Clustering:-Agglomerative
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Car_clus.ipynb
 
 # Day 64:-6 Aug
-Progress:-Built a sudoku solver
-Link:-
+Progress:-Built a suduko solver
+Link:-https://github.com/Pravleen/Suduko/blob/master/Suduko.ipynb
