@@ -29,7 +29,7 @@ https://www.hackerrank.com/certificates/1de26187677b
 # Day 6: 11 June,2020
 
 Today's progress: I learned how to do data analysis on exploratory data such as medical-related data so that a person could be diagnosed according to the factors.
-Link for today's progess:https://github.com/Pravleen/100daysofCode/blob/master/Exploratory%20Data%20Analysis.ipynb
+Link for today's progess:https://github.com/Pravleen/100daysofCode/blob/master/EDA/Exploratory%20Data%20Analysis.ipynb
 
 # Day 7: 12 June,2020
 Today's progress: Coding on hackerrank 
