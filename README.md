@@ -105,7 +105,7 @@ Progress :- Did coding on codechef
 
 # Day 33-34:8-9 July,2020
 Progress: Analysis of a car using model development 
-Link:- https://github.com/Pravleen/100daysofCode/blob/master/Model%20Development(Car%20Analysis).ipynb
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Model%20Development/Model%20Development(Car%20Analysis).ipynb
 
 # Day 35-38:10-13 July,2020:
 Progress: Started studying about Machine learning
