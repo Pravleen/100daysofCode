@@ -183,7 +183,16 @@ Progress: Clustering model of machine learning
 Hierarchical Clustering
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Hierarchical%20Clustering.ipynb
 
-# Day 60-61:3-4 August
+# Day 60:3 August
+Progress: Did coding on hackerrank
+
+# Day 61-62:4-5 August
 Progress: Clustering model of machine learning
 Types of Hierarchical Clustering:Agglomerative
-Link:-
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Car_clus.ipynb
+
+# Day 63:6 August
+Progress: Did hackerrank questions on set
+
+# Day 64:7 August
+Progress: Did hackerrank questions on binary numbers
