@@ -63,7 +63,7 @@ Multiple regression
 Regression plot
 Residual Plot
 Distributio plot
-Link:- https://github.com/Pravleen/100daysofCode/blob/master/Model%20Development(Car%20Analysis).ipynb
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Model%20Development/Model%20Development(Car%20Analysis).ipynb
 
 # Day 19- 20 : 24-25 June,2020
 Progress: Analysis of a car using model development
@@ -73,7 +73,7 @@ Mean squared Erorr(MSE)
 R-Squared(R^2)
 Prediction and decision making
 
-Link:-https://github.com/Pravleen/100daysofCode/blob/master/MODEL%20DEVELOPMENT%202%20.ipynb
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Model%20Development/MODEL%20DEVELOPMENT%202%20.ipynb
 
 # Day 21-22 : 26-27 June,2020
 Progress: Analysis of house sales prediction
