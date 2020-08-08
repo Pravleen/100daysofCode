@@ -94,8 +94,8 @@ https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Titanic/ti
 
 # Day 28- 29 :3-4 July,2020
 Progess:-Analysis of a survey and learned how to plot world map using python
-Link:-https://github.com/Pravleen/100daysofCode/blob/master/Survey.ipynb
-https://github.com/Pravleen/100daysofCode/blob/master/Map.ipynb
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Survey%20Analysis/Survey.ipynb
+https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Map%20Analysis/Map.ipynb
 
 # Day 30:5 July,2020
 Progress :- Did coding on hackerrank
