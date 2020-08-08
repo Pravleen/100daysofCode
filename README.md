@@ -137,7 +137,7 @@ Simple linear regression
 Multiple linear regression
 Polynomial regression
 Non-linear regression
-Link:- https://github.com/Pravleen/100daysofCode/blob/master/CO2%20EMISSION-Regression.ipynb
+Link:- https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Regression/CO2%20%20Emission/CO2%20EMISSION-Regression.ipynb
 
 # Day 47: 21 July:
 
