@@ -90,7 +90,7 @@ Link:-https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Immi
 
 # Day 27: 2 July,2020
 Progress:-Analysis of data of titanic and predicting who was likely to survive and who will not!!
-Link:https://github.com/Pravleen/100daysofCode/blob/master/titanic.ipynb
+https://github.com/Pravleen/100daysofCode/blob/master/Data%20Analysis/Titanic/titanic.ipynb
 
 # Day 28- 29 :3-4 July,2020
 Progess:-Analysis of a survey and learned how to plot world map using python
