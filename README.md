@@ -144,7 +144,7 @@ Link:- https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/
 Progress:-Classification model of machine learning
 KNN Model
 
-Link:-https://github.com/Pravleen/100daysofCode/blob/master/Telecomm.ipynb
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Classification/KNN%20Model/Telecomm/Telecomm.ipynb
 
 # Day 48: 22 July:
 Progress:-Classification model of machine learning
