@@ -149,8 +149,8 @@ Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/C
 # Day 48: 22 July:
 Progress:-Classification model of machine learning
 Decision Tree Model
-Link:- https://github.com/Pravleen/100daysofCode/blob/master/Drug%20.ipynb
-      https://github.com/Pravleen/100daysofCode/blob/master/drugtree.png
+Link:- hhttps://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Classification/Decision%20Tree/Drug/Drug%20.ipynb
+     https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Classification/Decision%20Tree/Drug/drugtree.png
 
 # Day 49-50 :23 July:
 Progress:-Classification model of machine learning
