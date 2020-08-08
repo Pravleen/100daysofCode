@@ -175,4 +175,15 @@ K-means Clustering
 
 Link:-https://github.com/Pravleen/100daysofCode/blob/master/Cust_Segmentation.ipynb
 
+# Day 58:31 July
+Progress : Did coding on hackerrank
 
+# Day 59-60:1-2 August
+Progress: Clustering model of machine learning
+Hierarchical Clustering
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/Hierarchical/Hierarchical%20Clustering.ipynb
+
+# Day 60-61:3-4 August
+Progress: Clustering model of machine learning
+Types of Hierarchical Clustering:Agglomerative
+Link:-
