@@ -156,7 +156,7 @@ Link:- hhttps://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning
 Progress:-Classification model of machine learning
 Support Vector Machine 
 Link:-
-https://github.com/Pravleen/100daysofCode/blob/master/Cancer%20cell.ipynb
+https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Classification/SVM/Cancer%20Cell/Cancer%20cell.ipynb
 
 # Day 51: 24 July
 Progress : Did coding on hackerrank
