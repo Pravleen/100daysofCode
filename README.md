@@ -173,8 +173,7 @@ Did questions on data structures on hackerrank
 Progress: Started with Clustering model of machine learning
 K-means Clustering
 
-Link:-https://github.com/Pravleen/100daysofCode/blob/master/Cust_Segmentation.ipynb
-
+Link:-https://github.com/Pravleen/100daysofCode/blob/master/Machine%20Learning/Clustering/K-means%20Clustering/Customer%20Segmentation/Cust_Segmentation.ipynb
 # Day 58:31 July
 Progress : Did coding on hackerrank
 
