@@ -195,3 +195,10 @@ Progress: Did hackerrank questions on set
 
 # Day 64:7 August
 Progress: Did hackerrank questions on binary numbers
+
+# Day 65:8 August,2020
+Progress: Did hack the code on hackerrank
+
+# Day 66:9 August,2020
+Progress:  Did hack the code on hackerrank
+
