@@ -211,4 +211,13 @@ Progress: Did coding on hackerearth
 # Day 70:13 August,2020
 Progress: Did coding on hackerearth
 
+# Day 71-72-73:14,15,16 August,2020
+Progress:Studied statiscal analysis required for machine learning
+
+# Day 74-75:17,18 August,2020
+Progress : Did analysis on titanic dataset
+
+# Day 76: 19 August,2020
+Progress: Did coding on hackerearth
+
 
