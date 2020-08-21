@@ -202,3 +202,13 @@ Progress: Did hack the code on hackerrank
 # Day 66:9 August,2020
 Progress:  Did hack the code on hackerrank
 
+# Day 67,68: 10,11 August,2020
+Progress : Did a linear regression on brain weight data set
+
+# Day 69:12 Auguts,2020
+Progress: Did coding on hackerearth
+
+# Day 70:13 August,2020
+Progress: Did coding on hackerearth
+
+
