@@ -220,4 +220,23 @@ Progress : Did analysis on titanic dataset
 # Day 76: 19 August,2020
 Progress: Did coding on hackerearth
 
+# Day 77:20 August,2020
+Progress: Did coding on hackerearth
+
+# Day 78: 21 August,2020
+Progress: Did coding on hackerearth
+
+# Day 78:22 August,2020
+Progress: Did coding on hackerearth
+
+# Day 79-81:23-25 August,2020
+Progress: Did analysis on breast cancer dataset
+
+# Day 82: 26 August,2020
+Progress: Did data visualization on tabeau on weather forecastig
+
+
+
+
+
 
