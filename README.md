@@ -284,7 +284,7 @@ Did coding on Graphs
 # Day 99:- 29 September,2020
 Did coding on Graphs
 # Day 100:- 30 September,2020
-Did coding on Tress!!!!!
+Did coding on Trees!!!!!
 
 SUCCESSFULLY COMPLETED 100 DAYS OF CODE CHALLENGE
 
