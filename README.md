@@ -208,6 +208,7 @@ Progress : Did a linear regression on brain weight data set
 # Day 69:23 Auguts,2020
 Progress: Did coding on hackerearth
 
+
 # Day 70:24 August,2020
 Progress: Did coding on hackerearth
 
@@ -243,7 +244,7 @@ Progress:-Started with coding on data structures
 Progress:- Coding on Searching algorithms 
 Linear search
 Binary search
-
+https://github.com/Pravleen/100daysofCode/tree/master/Hackkerearth/Linear%20Search
 # Day 86:- 15 September,2020
 Coding on Searching algorithms 
 A* Srarch
