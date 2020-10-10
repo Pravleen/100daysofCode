@@ -206,7 +206,8 @@ Progress:  Did hack the code on hackerrank
 Progress : Did a linear regression on brain weight data set
 
 # Day 69:23 Auguts,2020
-Progress: Did coding on hackerearth
+Progress: Created some algorithms on question 
+https://github.com/Pravleen/Python/blob/master/Daily%20coding/Daily%20coding-1.txt
 
 
 # Day 70:24 August,2020
