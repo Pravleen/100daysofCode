@@ -269,6 +269,7 @@ https://github.com/Pravleen/100daysofCode/tree/master/Data%20structure/Bubble%20
 # Day 92:-22 September,2020
 Coding on Sorting algorithms 
 Insertion sort
+https://github.com/Pravleen/100daysofCode/blob/master/Data%20structure/Insertion%20sort.ipynb
 # Day 93:-23 September,2020
 
 Did coding on arrays and lists
