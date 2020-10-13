@@ -217,7 +217,8 @@ Progress: Did coding on hackerearth
 Progress:Studied statiscal analysis required for machine learning
 
 # Day 74-75:28-29 August,2020
-Progress : Did analysis on titanic dataset
+Progress : Practiced data manipulation
+https://github.com/Pravleen/Data-Science/blob/master/Data%20Manipulation-2.ipynb
 
 # Day 76: 30 August,2020
 Progress: Did coding on hackerearth
